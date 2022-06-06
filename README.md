@@ -1,2 +1,1 @@
-# itsyuriidev-JSFEPRESCHOOL2022Q2
-Private repository for @itsyuriidev
+https://itsyuriidev.github.io/rsschool-cv/cv
